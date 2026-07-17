@@ -1,0 +1,18 @@
+# XCS - Xyxy's Caelus Shaders
+
+# Build artifacts
+CaelusShaderInstaller/CaelusShaderInstaller.exe
+CaelusShaderInstaller/XCS_Installer.exe
+CaelusShaderDistro/XCS_Installer.exe
+
+# Icon conversions (PNG -> ICO - keep PNG, ICO is regenerated)
+*.ico
+!XCS_Icon.ico
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.log
